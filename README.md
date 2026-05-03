@@ -35,15 +35,7 @@ Includes a simple UI for easy interaction and demonstration.
 
 ---
 
-## 📂 Project Structure
 
-```
-CN project/
- ├── viewcer.py      # Core logic (scanning + SSL + analysis)
- ├── ui_tool.py      # GUI interface
- ├── results.txt     # Saved scan results
- └── README.md       # Project documentation
-```
 
 ---
 
