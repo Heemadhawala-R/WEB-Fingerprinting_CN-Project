@@ -1,0 +1,112 @@
+
+🔍 Scanning: cloudflare.com
+HTTP Info: Server: cloudflare
+Analysis: Unknown server type
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services'),), (('commonName', 'WE1'),))
+Latency: 0.2095 sec
+
+
+🔍 Scanning: httpd.apache.org
+HTTP Info: Server: Varnish
+Analysis: Unknown server type
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'R13'),))
+Latency: 0.2225 sec
+
+
+🔍 Scanning: example.com
+HTTP Info: Server: cloudflare
+Analysis: Unknown server type
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', 'CLOUDFLARE, INC.'),), (('commonName', 'Cloudflare TLS Issuing ECC CA 1'),))
+Latency: 0.2251 sec
+
+
+🔍 Scanning: www.microsoft.com
+HTTP Info: Server: AkamaiNetStorage
+Analysis: Unknown server type
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', 'Microsoft TLS G2 RSA CA OCSP 04'),))
+Latency: 0.6456 sec
+
+
+🔍 Scanning: nginx.org
+HTTP Info: Server: nginx/1.29.3
+Analysis: High-performance server (nginx)
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'E7'),))
+Latency: 0.9085 sec
+
+
+🔍 Scanning: example.com
+HTTP Info: Server: cloudflare
+Analysis: Unknown server type
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', 'CLOUDFLARE, INC.'),), (('commonName', 'Cloudflare TLS Issuing ECC CA 1'),))
+Latency: 0.2791 sec
+
+
+🔍 Scanning: nginx.org
+HTTP Info: Server: nginx/1.29.3
+Analysis: High-performance server (nginx)
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'E7'),))
+Latency: 1.1440 sec
+
+
+🔍 Scanning: example.com
+HTTP Info: Server: cloudflare
+Analysis: Unknown server type
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', 'CLOUDFLARE, INC.'),), (('commonName', 'Cloudflare TLS Issuing ECC CA 1'),))
+Latency: 0.0780 sec
+
+
+🔍 Scanning: nginx.org
+HTTP Info: Server: nginx/1.29.3
+Analysis: High-performance server (nginx)
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'E7'),))
+Latency: 0.9037 sec
+
+
+🔍 Scanning: example.com
+HTTP Info: Server: cloudflare
+Analysis: Unknown server type
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', 'CLOUDFLARE, INC.'),), (('commonName', 'Cloudflare TLS Issuing ECC CA 1'),))
+Latency: 0.1361 sec
+
+
+🔍 Scanning: nginx.org
+HTTP Info: Server: nginx/1.29.3
+Analysis: High-performance server (nginx)
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'E7'),))
+Latency: 0.9700 sec
+
+
+🔍 Scanning: example.com
+HTTP Info: Server: cloudflare
+Analysis: Unknown server type
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', 'CLOUDFLARE, INC.'),), (('commonName', 'Cloudflare TLS Issuing ECC CA 1'),))
+Latency: 0.2468 sec
+
+
+🔍 Scanning: microsoft.com
+HTTP Info: Server header not found
+Analysis: Unknown server type
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', 'Microsoft TLS G2 RSA CA OCSP 02'),))
+Latency: 0.2794 sec
+
+
+🔍 Scanning: nginx.org
+HTTP Info: Server: nginx/1.29.3
+Analysis: High-performance server (nginx)
+HTTPS Info: Handled via SSL
+SSL Info: SSL Enabled | Issuer: ((('countryName', 'US'),), (('organizationName', "Let's Encrypt"),), (('commonName', 'E7'),))
+Latency: 1.0781 sec
+
